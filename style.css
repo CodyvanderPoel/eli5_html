@@ -20,4 +20,8 @@ li {
 
 .eli5-explanation {
     color: aquamarine;
+    text-decoration: none;
+}
+.eli5-tag {
+    text-decoration: none;
 }
