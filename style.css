@@ -1,6 +1,23 @@
-body {
+/* body {
     font-family: Arial, Verdana, sans-serif;
 }
+FIRST ATTEMPT
 li {
     list-style-image: url("images/blue-dot.png");
+} */
+
+.eli5-container {
+    color: aquamarine;
+}
+
+.eli5-item {
+    color: black;
+}
+
+.eli5-comment-counter {
+    color: gray;
+}
+
+.eli5-explanation {
+    color: aquamarine;
 }
