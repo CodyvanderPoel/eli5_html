@@ -7,21 +7,35 @@ li {
 } */
 
 .eli5-container {
-    color: aquamarine;
+    color: lightseagreen;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .eli5-item {
     color: black;
+    padding: 0.25rem;
+    margin: 0.25rem;
 }
 
 .eli5-comment-counter {
     color: gray;
+    padding: 0rem;
+    margin: 0.25rem;
 }
 
 .eli5-explanation {
-    color: aquamarine;
+    color: lightblue;
     text-decoration: none;
 }
 .eli5-tag {
     text-decoration: none;
+}
+
+.eli5-bubble {
+    width: 20px;
+    height: 15px;
+}
+
+.eli5-header {
+    font-family: "Courier New", Courier, monospace;
 }
