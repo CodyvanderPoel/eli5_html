@@ -38,4 +38,10 @@ li {
 
 .eli5-header {
     font-family: "Courier New", Courier, monospace;
+    color: black;
+}
+
+.eli5-body {
+    border-width: 1px;
+    color: grey;
 }
